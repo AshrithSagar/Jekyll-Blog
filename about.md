@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi, :hibiscus:
+Hi,
 
 I am Ashrith Sagar
