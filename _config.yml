@@ -17,8 +17,8 @@ title: AshrithSagar
 email: ashrith9sagar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   AshrithSagar
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ashrithsagar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "Jekyll-Blog" # the subpath of your site, e.g. /blog
+url: "https://ashrithsagar.github.io/Jekyll-Blog/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AshrithSagar
 
 # Build settings
